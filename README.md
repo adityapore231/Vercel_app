@@ -1,3 +1,4 @@
+# 👨‍💻  Vercel Clone:
 Introducing Project Vercel Clone 👨‍💻  
 
 As you might know vercel is a PaaS which takes care of hosting your application with one click. Versel only need a url of your github repository.
@@ -29,3 +30,7 @@ Services:
 3. Docker
 
 4. Javascript
+## Architecture
+
+![App Screenshot](https://github.com/adityapore231/vercel_app/blob/main/versel_architecture.PNG?raw=true)
+
